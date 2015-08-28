@@ -1,0 +1,8 @@
+{
+	"full_name": "Maximilian Jackson",
+	"email" : "maximilian.jackson@gmail.com",
+	"github_username": "ruffyleaf",
+	"project_name" : "My new project",
+	"proj" : "myproj",
+	"project_short_description": "Cookiecutter template for creating CRISP-DM projects quickly in python"
+}
